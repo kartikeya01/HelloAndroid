@@ -1,12 +1,12 @@
 # Hello Android
 An Android app which takes user text and manipulates it
 
-### App Walk-though
+## App Walk-though
 
 <img src="https://media.giphy.com/media/dCCYJPBvxS10gtm7SH/giphy.gif" width=200><br>
 
 
-### Functionality
+## Functionality
 
 - [x] 1. User sees custom text in a label - Hello Android!
 - [x] 2. User see's custom background color.
